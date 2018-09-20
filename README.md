@@ -1,2 +1,2 @@
 # OrderCalcProfit-MQL4
-OrderCalcProfit() for MQL4
+Simple MQL4 implementation of awesome MQL5 function OrderCalcProfit().
